@@ -1,0 +1,60 @@
+header{background-color: rgba(255, 255, 255, 0.753);
+        color: black;
+        border-radius: 2em;
+        text-align: center;
+        padding: 30px;}
+
+.trayectoria{background-color:rgb(231, 233, 131);
+        border-radius: 2em;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 11px;}
+        
+
+.textrayectoria{ 
+    display: table-cell;
+    padding: 10px;
+    margin: 3px;}
+        
+
+.espblanco{ 
+    height: 15px;
+}
+
+.textrayectoria{                background-color: rgb(104, 170, 170);
+    border-radius: 2em;}
+
+.textrayectoria:nth-child(1) h1{
+    background-color: rgb(24, 97, 97);
+    border-radius: 2em;
+}
+.lista{
+    background-color: rgb(130, 163, 152);
+    border-radius: 2em;
+    text-align: center;
+}
+
+.skills{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagen{ 
+    width: 100%;
+
+}
+
+.image-porfile{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.name{
+    width: 100px;
+    height:auto ;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+}
